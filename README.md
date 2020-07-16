@@ -77,6 +77,7 @@ Inicie o servidor MySQL com o seguinte comando:
  `$> sudo systemctl start mysqld ` 
 
 Você pode verificar o status do servidor MySQL com o seguinte comando:
+
  `$> sudo service mysqld status `    
  
     ou
@@ -156,3 +157,6 @@ Você pode acompanhar o estado do processo em busca de erros ou mensagens import
 
 ---
 ---
+
+
+
